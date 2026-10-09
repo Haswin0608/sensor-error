@@ -1,0 +1,7 @@
+{
+  "name": "SensorSure",
+  "description": "A reusable sensor fault detection and monitoring system for students and hobbyists building ECE / IoT / Arduino projects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
+
